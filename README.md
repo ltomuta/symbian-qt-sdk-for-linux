@@ -13,4 +13,4 @@ See also this YouTube video: http://www.youtube.com/watch?v=l7wkFtIPZvc
 
 --------------------------------------------------------------------------------
 
-*Copyright (c) 2011-2013 Nokia Corporation. All rights reserved.*
+*Copyright (c) 2011-2014 Microsoft Mobile. All rights reserved.*
